@@ -23,49 +23,55 @@ Testing the webserver.
 ## PROGRAM:
 ```
 <html>
-<title> Image map </title>
+<head>
+<title> My Web Server</title>
+</head>
 <body>
-<table border ="2" cellspacing ="10" cellpadding = "6" align = "Center">
-<caption> TOP FIVE CRICKET BOWLERS </caption>
+<h1>Top Five Revenue from Companies</h1>
+<table border=2>
 <tr>
-<th bgcolor="CYAN"> S.No </th>
-<th bgcolor="CYAN"> NAME </th>
-<th bgcolor="CYAN"> COUNTRY </th>
+<th> Company Name </th>
+<th> Revenue </th>
+<th> Financial Year </th>
 </tr>
+
 <tr>
-<td bgcolor="YELLOW"> 1. </td>
-<td bgcolor="YELLOW"> MITCHAL STARC</td>
-<td bgcolor="YELLOW"> AUSTRALIA </td>
+<td> Microsoft </td>
+<td> 86$ </td>
+<td> 2014 </td>
 </tr>
+
 <tr>
-<td bgcolor="GREEN"> 2. </td>
-<td bgcolor="GREEN"> SHOAIB AKHTAR</td>
-<td bgcolor="GREEN"> PAKISTAN</td>
+<td> Oracle </td>
+<td> 37$ </td>
+<td> 2013 </td>
 </tr>
+
 <tr>
-<td bgcolor="BLUE"> 3. </td>
-<td bgcolor="BLUE"> LASITH MALINGA </td>
-<td bgcolor="BLUE"> SRILANKA </td>
+<td> SAP </td>
+<td> 20$ </td>
+<td> 2013 </td>
 </tr>
+
 <tr>
-<td bgcolor="RED"> 4. </td>
-<td bgcolor="RED"> JAMES ANDERSON </td>
-<td bgcolor="RED"> ENGLAND </td>
+<td> VMware </td>
+<td> 5.2$ </td>
+<td> 2013 </td>
 </tr>
+
 <tr>
-<td bgcolor="GRAY"> 5. </td>
-<td bgcolor="GRAY"> TRENT BOULT </td>
-<td bgcolor="GRAY"> NEWZLAND </td>
+<td> CA Technologies </td>
+<td> 4.7$ </td>
+<td> 2013 </td>
 </tr>
-</table>
+
 </body>
 </html>
+
 ```
 
 ## OUTPUT:
-![image](https://github.com/Ajith1413/simplewebserver/assets/139842524/c8d7c7c3-c2a7-45b5-902c-1d9eba4a95ed)
-
-
+![image](https://github.com/Ajith1413/simplewebserver/assets/139842524/284ee9d8-7608-4749-a9cf-846d0620aa32)
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
